@@ -1,6 +1,4 @@
 If you would like to use this code in your projects, it is strongly recommended (but it is not required) that you have donated at least £0.50 to indepthnotes, either through youtube superthanks, the buymeacoffeelink, or the various other methods (indepthnotes.com/donate).
-The code follows the GPL version 3 Licence.
-Meaning you are free to distribute your paid copy to others, provided you link back to here.
 
 # prerequistes
 - for windows compiling you need a cross-compiler such as gcc-mingw-w64-x86-64
